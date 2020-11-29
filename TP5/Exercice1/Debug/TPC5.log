@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Gaëtan C\source\repos\TPC5\TPC5\main.c(8,9): warning C4013: 'initTab' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Gaëtan C\source\repos\TPC5\TPC5\main.c(9,12): warning C4013: 'afficheTab' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Gaëtan C\source\repos\TPC5\TPC5\main.c(29,25): warning C4013: 'ajoutElementDansTableau' non défini(e) ; extern retournant int pris par défaut
+  TPC5.vcxproj -> C:\Users\Gaëtan C\source\repos\TPC5\Debug\Exercice1.exe

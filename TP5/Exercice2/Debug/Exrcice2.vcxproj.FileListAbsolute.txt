@@ -1,0 +1,2 @@
+C:\Users\Gaëtan C\Source\Repos\GaetanColnot\TP5\Exercice2\Debug\Exrcice2.exe
+C:\Users\Gaëtan C\Source\Repos\GaetanColnot\TP5\Exercice2\Debug\Exrcice2.pdb

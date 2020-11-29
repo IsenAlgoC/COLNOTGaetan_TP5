@@ -1,0 +1,8 @@
+﻿  ex2.c
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\structureetfct.h(25,56): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\ex2.c(6,2): warning C4033: 'tableau' doit retourner une valeur
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\ex2.c(22,10): warning C4101: 'tab' : variable locale non référencée
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\structureetfct.h(38): warning C4715: 'setElement' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\structureetfct.h(70): warning C4715: 'deleteElements' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Gaëtan C\source\repos\TPC5\Exrcice2\ex2.c(7): warning C4716: 'tableau' : doit retourner une valeur
+  Exrcice2.vcxproj -> C:\Users\Gaëtan C\source\repos\TPC5\Debug\Exrcice2.exe
